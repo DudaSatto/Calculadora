@@ -1,10 +1,11 @@
 # Calculadora
-#Introdução
+
+# Introdução
 Uma calculadora com as quatro operaçãoes Matemáticas, soma, subtração, divisão e multiplicação.
-#Foto do Junit 
+# Foto do Junit 
 ![image](https://github.com/DudaSatto/Calculadora/assets/115050267/ff378c3f-c4dc-4b4f-bc63-00fd8c129f64)
 
-#Ilustração
+# Ilustração
 
 ![image](https://github.com/DudaSatto/Calculadora/assets/115050267/fa7bafe5-a958-432d-9823-5b78bb12940c)
 
@@ -36,9 +37,10 @@ Dividir Sendo um Deles Zero ;
 Dividir Sendo os Dois Igual a Zero;
 Dividir Um deles sendo Negativo;
 Dividir Sendo o Segundo Negativo;
-#Tecnologia
+
+# Tecnologia
 Linguagem Java
 # Ferramenta
 NetBeans
-#Última Atualização
+# Última Atualização
 14/11/2023
