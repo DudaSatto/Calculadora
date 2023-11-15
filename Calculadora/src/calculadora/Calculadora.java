@@ -5,10 +5,14 @@ package calculadora;
 public class Calculadora {
 
     public static void main(String[] args) {
-        CalculadoraSoma calc = new CalculadoraSoma();
-        int soma = calc.somar(3,7);
-        System.out.println(soma);
+        
     
     }
+
+    public void somar(int i, int i0) {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
+
+
     
 }
